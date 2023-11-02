@@ -1,3 +1,8 @@
+#nama: WILDAN RANGGA ADI PUTRA
+#Kelas: XI TKJ 1
+#Absen: 27
+#Soal: Sebagai seorang pustakawan, Anda perlu menentukan jenis pinjaman buku berdasarkan durasi peminjaman.
+
 def tentukan_jenis_pinjaman(durasi):
     if durasi <= 7:
         return "Peminjaman Pendek"

@@ -1,3 +1,8 @@
+#nama: WILDAN RANGGA ADI PUTRA
+#Kelas: XI TKJ 1
+#Absen: 27
+#Soal: Sebagai seorang pengembang perangkat lunak, Anda perlu membuat program sederhana yang menghitung bonus tahunan karyawan berdasarkan performa mereka.
+
 performa = int(input("Masukkan nilai performa karyawan (1 hingga 5): "))
 gaji_tahunan = float(input("Masukkan gaji tahunan karyawan: "))
 
