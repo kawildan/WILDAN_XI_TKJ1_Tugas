@@ -1,3 +1,7 @@
+# Nama: [WILDAN RANGGA ADI PUTRA]
+# Kelas: [XI-TKJ 1]
+# Nomor Absen: [27]
+# Soal: Sebagai seorang kasir di toko, Anda harus menghitung jumlah diskon berdasarkan total belanjaan pelanggan dan jenis anggota (anggota biasa atau anggota premium)
 def hitung_diskon(total_belanja, status_anggota):
     if status_anggota == "premium":
         if total_belanja > 500000:

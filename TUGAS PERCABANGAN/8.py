@@ -1,3 +1,4 @@
+
 def tentukan_status_proyek(status_persiapan):
     if status_persiapan.lower() == "siap":
         return "Proyek diluncurkan."
